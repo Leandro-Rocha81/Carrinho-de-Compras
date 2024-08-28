@@ -5,7 +5,7 @@ Este é um projeto que simula a funcionalidade de um carrinho de compras online.
 
 ## Demonstração
 
-![Demonstração do Carrinho de Compras](img/Exemplo.png)
+![Demonstração do Carrinho de Compras](assets/Exemplo.png)
 
 ## Funcionalidades
 
@@ -25,7 +25,7 @@ Este é um projeto que simula a funcionalidade de um carrinho de compras online.
 
     git clone (https://github.com/Leandro-Rocha81/Carrinho-de-Compras.git)
 
-2. Abra o arquivo `index.html` no navegador utilizando um servidor local.
+2. Abra o arquivo [`index.html`](https://carrinho-de-compras-sage-one.vercel.app) no navegador utilizando um servidor local.
 3. Adicione produtos ao carrinho e visualize o valor total atualizado.
 4. Utilize o botão "Limpar Carrinho" para remover todos os itens e resetar o valor.
 
